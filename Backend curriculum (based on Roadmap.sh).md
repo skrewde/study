@@ -1,4 +1,5 @@
-### BE01. The Internet
+# Backend Engineering Curriculum (based on Roadmap.sh, Job Listings, and personal considerations)
+## BE01. The Internet
 #### Key Resources:
 1. [Computer Networking: A Top-Down Approach - Kurose, Ross](file:///C:/Users/Admin/Documents/Books,%20PDFs/01.%20CS,%20Programming/06.%20Fundamentals/Computer%20Networking%20_%20A%20Top%20Down%20Approach,%207th,%20converted.pdf)
 2. Mozilla Developer Network Web Docs
@@ -19,13 +20,13 @@
 	 - [1.4 - How browsers work (MDN - GitHub)](https://github.com/mdn/curriculum/blob/main/curriculum/2-core/1-standards-and-semantics/1-4-how-browsers-work.md)
 	 - [Web Application Security: understanding the browser](https://odino.org/wasec-understanding-the-browser/) by Alessandro Nadalin (@odino)
 
-
-### Databases
+## BE02. Databases
 #### Relational databases
 #### NoSQL databases
 #### More on databases
 #### Scaling databases
-### APIs
+
+## BE03. APIs
 ####
 #### Designing APIs/Best practices
 #### API Security
