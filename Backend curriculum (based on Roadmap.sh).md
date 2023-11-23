@@ -4,7 +4,7 @@
 1. [Computer Networking: A Top-Down Approach - Kurose, Ross](file:///C:/Users/Admin/Documents/Books,%20PDFs/01.%20CS,%20Programming/06.%20Fundamentals/Computer%20Networking%20_%20A%20Top%20Down%20Approach,%207th,%20converted.pdf)
 2. Mozilla Developer Network Web Docs
 
-##### Key Topics
+#### Key Topics
 - The Internet fundamentals.
 	- TCP/IP
 	- HTTP
@@ -13,7 +13,7 @@
 	- Domain Names
 	- Hosting
 - Browsers
-	 ***Resources***:
+  ***Resources***:
 	 - [Resilient Web Design](https://resilientwebdesign.com/) by Jeremy Keith. Note: Pending audit for usefulness
 	 - [1.1 How the web works (MDN - GitHub)](https://github.com/mdn/curriculum/blob/main/curriculum/2-core/1-standards-and-semantics/1-1-how-the-web-works.md)
 		 - [How the Web works - Beginner section/Overview (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
