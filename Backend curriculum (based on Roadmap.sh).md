@@ -32,17 +32,16 @@
 ### Caching
 ###
 ###
-##### Misc.:
+
+
+### Misc.:
 **Curl:**
 Client URL (cURL, pronounced “curl”) is a command line tool that enables data exchange between a device and a server through a terminal. Using this command line interface (CLI), a user specifies a server URL (the location where they want to send a request) and the data they want to send to that server URL.
 
 ***Resources***
 - [Mastering the Curl command line (YouTube)](https://youtu.be/V5vZWHP-RqU) by Daniel Stenberg
 - [Everything curl (Book)](https://everything.curl.dev/) by Daniel Stenberg (I have a local copy)
-
-
-[Version control fundamentals (Git/GitHub)](https://github.com/mdn/curriculum/blob/main/curriculum/2-core/4-best-practices-and-essential-tooling/8-0-version-control-fundamentals-git-github.md)
-
-[Design theory for developers (GitHub)](https://github.com/mdn/curriculum/blob/main/curriculum/2-core/4-best-practices-and-essential-tooling/9-0-design-theory-for-developers.md#9-design-theory-for-developers)
+- [Version control fundamentals (Git/GitHub)](https://github.com/mdn/curriculum/blob/main/curriculum/2-core/4-best-practices-and-essential-tooling/8-0-version-control-fundamentals-git-github.md)
+- [Design theory for developers (GitHub)](https://github.com/mdn/curriculum/blob/main/curriculum/2-core/4-best-practices-and-essential-tooling/9-0-design-theory-for-developers.md#9-design-theory-for-developers)
 
 
