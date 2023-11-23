@@ -13,7 +13,7 @@
 	- Domain Names
 	- Hosting
 - Browsers
-  ***Resources***:
+	***Resources***:
 	 - [Resilient Web Design](https://resilientwebdesign.com/) by Jeremy Keith. Note: Pending audit for usefulness
 	 - [1.1 How the web works (MDN - GitHub)](https://github.com/mdn/curriculum/blob/main/curriculum/2-core/1-standards-and-semantics/1-1-how-the-web-works.md)
 		 - [How the Web works - Beginner section/Overview (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
