@@ -7,6 +7,7 @@
 - The Internet fundamentals.
 	- TCP/IP
 	- HTTP
+ 		- [Basics of HTTP (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP)  		
 	- DNS
 	- Domain Names
 	- Hosting
